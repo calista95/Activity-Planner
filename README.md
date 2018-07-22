@@ -33,3 +33,12 @@ Activities: 2 4 9 11
 Set 2  
 Number of activities selected = 2  
 Activities: 2 1 
+
+# How to compile  
+```
+g++ act.cpp 
+```
+# How to run
+```
+a.out
+```
